@@ -1,0 +1,40 @@
+password : 2wvcDW8j
+
+For downloading Magento
+username : getMyMagento
+password : Kraususa123
+
+http://localhost:81/magento/magento/
+
+admin section :
+username : adminMagento
+password : 2wvcDW8j
+
+magento encryprtion key
+bfebd88f37c4717df70868ff450811aa
+
+mysql sample data
+http://inchoo.net/ecommerce/magento/magento-sample-data/
+
+netbeans :  3cef4ea5a8a59ff3d2923c0ec9c2f197
+
+
+######## virtual host for magento
+http://blog.jbheren.com/post/2011/01/25/configure-virtual-hosts-in-wamp-server
+
+######## products not showing on popup
+http://www.aschroder.com/2010/07/why-are-my-magento-products-not-showing-up/
+
+######## admin login not working in chrome
+http://stackoverflow.com/questions/15491819/magento-admin-login-not-working-in-chrome-but-works-fine-for-firefox
+
+######## showing products with pagination on home page
+http://www.noamdesign.com/magento-include-toolbar-and-pagination-when-listing-products/
+
+######## magento code execution flow
+http://www.techflirt.com/tutorials/magento-tutorial/magento-flow-code-execution.html
+
+######## inserting blocks at any place
+http://www.atwix.com/magento/insert-blocks/
+
+http://galathemes.com/magento-news/how-to-easily-add-a-banner-to-your-magento-homepage-34.html
